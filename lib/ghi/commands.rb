@@ -16,5 +16,6 @@ module GHI
     autoload :Show,      'ghi/commands/show'
     autoload :Unassign,  'ghi/commands/unassign'
     autoload :Version,   'ghi/commands/version'
+    autoload :Sync,      'ghi/commands/sync'
   end
 end
